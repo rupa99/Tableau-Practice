@@ -1,0 +1,4 @@
+1) Create a set to show stages with 100 or more customers 
+2) Create a calculated field to show the average sales per customner
+3) Create a calculated field to show sales goals 
+4) Create a calculated field to show emerging and developing states
